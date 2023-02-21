@@ -1,0 +1,2 @@
+
+      dsum+=(dp->data2);

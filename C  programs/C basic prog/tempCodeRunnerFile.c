@@ -1,0 +1,1 @@
+ printf("Sum of digits=%d",sum);
